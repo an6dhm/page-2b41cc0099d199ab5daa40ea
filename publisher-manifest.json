@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "efebe6955d477e3dc3b880c3",
+  "owner": "an6dhm",
+  "repo": "page-2b41cc0099d199ab5daa40ea",
+  "title": "SSRSub",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2b41cc0099d199ab5daa40ea",
+      "a": "SSRSub",
+      "b": "2027官方最新地址导航",
+      "entity": "SSRSub",
+      "brand": "SSRSub",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "05a5eaeb3d6fd8f30b5939a1aa6686344e452c351e7034db1115ab86a1a6c671",
+      "content": {
+        "primary_entity": "SSRSub",
+        "keyword1": "SSRSub",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，选择订阅方案时，可以先看每月流量和同时在线的设备数量，再决定按月还是按年付费。基础版适合个人日常使用，旗舰版在流量、设备数量和线路优化上更均衡，团队版面向多设备协同场景。SSRSub 的套餐按流量与并发设备区分，订阅导入后，在对应客户端里更新配置即可使用。",
+          "AI_HERO_SUBTITLE": "订阅方案按流量与设备数分层",
+          "AI_HERO_INTRO": "SSRSub 提供基础版、旗舰版和团队版三档订阅，流量从每月 100GB 到 1000GB，同时在线的设备数量从 3 台到 20 台。按年付通常比按月付更省，可以先确认自己常用的设备和每月大概的流量消耗，再选择对应档位。",
+          "AI_VISUAL_TITLE": "SSRSub 订阅套餐选择",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版每月 300GB，支持 5 台设备",
+          "AI_HIGHLIGHT_3": "团队版每月 1000GB，支持 20 台设备",
+          "AI_FEATURES_TITLE": "套餐与设备搭配说明",
+          "AI_FEATURES_INTRO": "先看设备数量和流量需求，再决定订阅周期。",
+          "AI_FEATURE_TITLE_1": "按设备数量选档",
+          "AI_FEATURE_TEXT_1": "手机加电脑常用选基础版，多设备并行可考虑旗舰版。",
+          "AI_FEATURE_TITLE_2": "按流量需求选档",
+          "AI_FEATURE_TEXT_2": "每月 100GB 适合轻度浏览，300GB 以上适合视频与下载。",
+          "AI_FEATURE_TITLE_3": "按年付更划算",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统对应不同的订阅客户端，按设备类型安装即可。",
+          "AI_PLANS_TITLE": "三档订阅套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，按年付分别为 ¥150、¥350、¥850。",
+          "AI_GUIDE_TITLE": "订阅配置三步走",
+          "AI_GUIDE_INTRO": "先定方案，再看设备要求，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择服务方案",
+          "AI_STEP_TEXT_1": "根据每月流量和常用设备数量，在基础版、旗舰版、团队版中确定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统版本和客户端类型，选择与设备匹配的订阅客户端。",
+          "AI_STEP_TITLE_3": "依文档配置订阅",
+          "AI_STEP_TEXT_3": "打开对应客户端，按文档提示导入订阅链接并更新节点配置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐再配置订阅",
+          "AI_CLOSING_TEXT": "先确认设备数量和每月流量，再选择按年或按月订阅。",
+          "AI_FAQ_TITLE": "SSRSub 使用与套餐常见问题",
+          "AI_FAQ_QUESTION_1": "SSRSub 订阅地址从哪里获取？",
+          "AI_FAQ_ANSWER_1": "购买套餐后，在用户中心或订单详情中可查看专属订阅地址。复制该地址，在客户端中粘贴并手动更新即可。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。具体以所选套餐的设备数量为准。",
+          "AI_FAQ_QUESTION_3": "月付和年付价格差多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付 15 元、年付 150 元；旗舰版月付 35 元、年付 350 元；团队版月付 85 元、年付 850 元。年付相当于按月支付约八折。",
+          "AI_FAQ_QUESTION_4": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_4": "团队版含 1000GB 月流量和 20 台设备支持，适合小型团队共享、多设备并行或需要企业定制路由的用户。",
+          "AI_FAQ_QUESTION_5": "在路由器上能用 SSRSub 吗？",
+          "AI_FAQ_ANSWER_5": "支持 OpenWrt 或梅林固件的路由器可安装对应插件，导入订阅地址后实现全屋设备加速。具体请参考路由器插件文档。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tolern.cn",
+    "host": "tolern.cn"
+  },
+  "file_hashes": {
+    "index.html": "71c484be262b5403a690d1903b49602dfef6238a32dc56e2c241023bb34534b5",
+    "sitemap.xml": "344cd3519fb49cbafef359814704ef101d02c8623ce74f6f2b784c2faf75435f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1d6fda688aa4545deb038fb372c53b182a094f3cc2d065c38ad7798fc3fcd9a7",
+    "robots.txt": "32c6471a7f865b6a3009a7b12b2ecefc057f320cf4d7ccc46b22f90c6cdf520a",
+    "6a9a6c35bb307c479314cd96760f18aa.txt": "af7e48916b32d2cb5924d4c907aee4f31406207bed2971301d536d8b2821b113"
+  },
+  "revision": "6ccd53f4cede063162daad4f567b31f2ffa134f04dfa7a147c3f36b99ff49db3"
+}

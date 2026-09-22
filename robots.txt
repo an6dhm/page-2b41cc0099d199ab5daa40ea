@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tolern.cn/sitemap.xml
